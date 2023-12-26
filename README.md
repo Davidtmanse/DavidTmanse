@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+  cout << "Hello World!" << endl;
+
+  return 0;
+}
