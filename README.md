@@ -14,13 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#include <iostream>
 
-using namespace std;
-
-int main()
-{
-  cout << "Hello World!" << endl;
-
-  return 0;
-}
+this is just the first trying to do so!
+Even don't know how to use github to manage my codes.Or use git on vdcode to connet the github so that take code more easy.
+I should spend more time to learn how to use all of them.
